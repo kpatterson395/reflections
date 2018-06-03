@@ -1,0 +1,6 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+When you initialize, you get a hidden .git 
+directory, and you can now track changes and
+make commits.
+To initialize, you run the git commit command.
