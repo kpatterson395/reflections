@@ -4,3 +4,17 @@ When you initialize, you get a hidden .git
 directory, and you can now track changes and
 make commits.
 To initialize, you run the git commit command.
+
+How is the staging area different from the 
+working directory and the repository? What value
+do you think it offers?
+The staging area is files from the working 
+directory that you want to add to the repository,
+kind of the in between. This allows you to select 
+which specific files you would like to add in a commit.
+
+How can you use the staging area to make sure
+you have one commit per logical change?
+
+You can verify what will be commited before doing
+so.
