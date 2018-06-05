@@ -15,6 +15,15 @@ which specific files you would like to add in a commit.
 
 How can you use the staging area to make sure
 you have one commit per logical change?
-
 You can verify what will be commited before doing
 so.
+
+What are some situations when branches would
+be helpful in keeping your history organized?
+How would branches help?
+In situations where you would like multiple working
+versions of an app, such as testing out new features.
+Branches would allow you to test out a feature
+on one branch, while still maintaining the master
+branch for current use.
+
