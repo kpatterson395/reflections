@@ -27,3 +27,14 @@ Branches would allow you to test out a feature
 on one branch, while still maintaining the master
 branch for current use.
 
+How do the diagrams help you visualize the branch 
+structure?
+They demonstrate the non-linear structure, and 
+how commits can be lost.
+
+What is the result of merging two branches
+together? Why do we represent it in the 
+diagram the way we do?
+
+One branch is merged into another, this 
+way both changes are kept. 
