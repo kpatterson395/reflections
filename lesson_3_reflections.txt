@@ -38,3 +38,12 @@ accessible by all parties.
 It would be simpler in someways to update changes,
 however it would be very easy to lose code, or to 
 break the current version of code.
+
+When would you want to make changes in a separate branch
+rather than directly in master? What benefits does each approach
+have?
+When you are working on something that you don't want to
+interfer with the master branch, or you are working with
+other people. It is simpler to just work directly on the master
+branch, however it is safer and easier to track changes by
+working on a different branch.
