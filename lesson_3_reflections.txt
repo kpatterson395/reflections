@@ -8,3 +8,17 @@ remote repository?
 Having Git automatically synced could pull changes that 
 you don't want automatically pulled in, or that you are still
 working on.
+
+Describe the differences between forks, clones,
+and branches. When would you use one instead of
+another?
+Forkes are only on Github, and you would use this 
+to make your own changes to someone's code
+without affecting their repository, while still
+linking back.
+Clones are a way to copy a repository locally and
+can be used to work locally on a project you have
+on Github.
+Branches are a way to 'checkout' a current repository
+and make changes that wouldn't affect a production version.
+
