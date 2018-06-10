@@ -22,3 +22,10 @@ on Github.
 Branches are a way to 'checkout' a current repository
 and make changes that wouldn't affect a production version.
 
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+This is helpful to know if you have made changes that 
+are ahead of the remote copy, and also if changes
+have been made to the remote copy that you need to
+merge.
